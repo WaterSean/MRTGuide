@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SA</string>
+    <string name="捷運站">捷運站</string>
+    <string name="地圖">地圖</string>
+    <string name="設定">設定</string>
+    <string name="個人檔案" />
+    <string name="發文" />
+    <string name="搜尋" />
+    <string name="likeNums" />
+    <string name="collectNums" />
+    <string name="logo">logo</string>
+
+    <string-array name="ArrangeOrder">
+        <item>預設排序</item>
+        <item>依距離排序</item>
+        <item>依評分排序</item>
+    </string-array>
+</resources>
